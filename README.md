@@ -23,6 +23,7 @@ git push -f heroku master
    >001 AAA  
    >002 BBB  
    
-   即可註冊 AAA、BBB 兩位成員
-   
-2. 
+   即可註冊 AAA、BBB 兩位成員  
+   註冊成功後，機器人會回傳
+   >已更新成員!
+3. 

@@ -6,7 +6,7 @@
 
 ## 設置教學
 請參考: [Line Bot 教學](https://github.com/yaoandy107/line-bot-tutorial?tab=readme-ov-file)
-分別到 Heroku 跟 Line Bot 註冊，即可創造一個聊天機器人。
+分別到 Heroku 跟 Line Bot 註冊並綁定，即可創造一個聊天機器人
 
 ## 更新機器人
 ```

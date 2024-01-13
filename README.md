@@ -1,6 +1,5 @@
 # 國軍休假回報機器人
 這個聊天機器人用於國軍休假時，幫助班頭快速整理班兵休假狀態，方便快速回報
-![image](https://github.com/cwLin1/holiday-report-line-bot/assets/61427980/757b9b41-309e-433e-b9e4-2d483d731353)
 
 ## 設置教學
 請參考: [Line Bot 教學](https://github.com/yaoandy107/line-bot-tutorial?tab=readme-ov-file)

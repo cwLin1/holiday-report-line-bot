@@ -4,6 +4,7 @@
 ## 設置教學
 請參考: [Line Bot 教學](https://github.com/yaoandy107/line-bot-tutorial?tab=readme-ov-file)
 分別到 Heroku 跟 Line Bot 註冊，即可創造一個聊天機器人。
+![111](https://github.com/cwLin1/holiday-report-line-bot/assets/61427980/d3eb3b2c-f4bc-43b1-b328-8085717ec0e1)
 
 ## 更新機器人
 ```

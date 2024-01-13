@@ -21,7 +21,7 @@ git push -f heroku master
    例如在聊天室輸入:
    >設定  
    >001 AAA  
-   >002 BBB  
+   >002 BBB
    即可註冊 AAA、BBB 兩位成員
    
 2. 

@@ -2,6 +2,7 @@
 這個聊天機器人用於國軍休假時，幫助班頭快速整理班兵休假狀態，方便快速回報
 
 <img src="https://github.com/cwLin1/holiday-report-line-bot/assets/61427980/b26cda8c-4e18-45fc-b1c0-6e8007b3a1fc" width="320">
+
 <img src="https://github.com/cwLin1/holiday-report-line-bot/assets/61427980/d3eb3b2c-f4bc-43b1-b328-8085717ec0e1" width="320">
 
 

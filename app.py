@@ -16,19 +16,6 @@ line_bot_api = LineBotApi('ghzL1xG7qr/QX7Qt32hBTUrIFLB4paY02TxoDUiFFojkdyohBzO5o
 # Channel Secret
 handler = WebhookHandler('66dbe404b72cfffd46a00a37074b82d3')
 
-reports = { '050 林正偉': '未回報', 
-            '051 黃彥維': '未回報', 
-            '052 高詠峻': '未回報', 
-            '053 楊義庠': '未回報', 
-            '054 吳炫霖': '未回報', 
-            '055 陳柏岳': '未回報', 
-            '056 陳建樺': '未回報', 
-            '057 許佑澤': '未回報', 
-            '058 華紹甯': '未回報', 
-            '059 黃睦懿': '未回報', 
-            '060 許智勛': '未回報', 
-            '061 翁健庭': '未回報', 
-            }
 reports = {}
 
 
